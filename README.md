@@ -1,4 +1,4 @@
-# teste-tecnico-react-southsystem
+# Teste Técnico de React para a South System
 
 ### Como rodar o projeto:
 
